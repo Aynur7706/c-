@@ -1,8 +1,3 @@
-Əla Aynur 😎 indi sənə **Login + Calculator** birlikdə olan layihə üçün tam, səliqəli, professional və birbaşa copy-paste edilə bilən README hazırladım.
-
-Bunu olduğu kimi `README.md` faylına yerləşdirə bilərsən 👇
-
----
 
 # 🔐🧮 ASP.NET Web Forms Login & Calculator Project
 
